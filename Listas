@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <table>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Año de Publicación</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+
+        <tr>
+            <td>Harry Potter y la piedra filosofal</td>
+            <td>J.K Rowling</td>
+            <td>1997</td>
+            <td><a href="https://www.amazon.com/-/es/J-K-Rowling/dp/1644732076/ref=sr_1_1?
+                         keywords=harry+potter+y+la+piedra+filosofal&qid=1678143388&sprefi
+                         x=Harry+potter+y%2Caps%2C338&sr=8-1">Link de Compra</a></td>
+        </tr>
+
+        <tr>
+            <td>Ojo Midas</td>
+            <td>Deivis Cortés</td>
+            <td>2022</td>
+            <td><a href="https://www.buscalibre.com.co/libro-ojo-midas/9789585326972/p/53541494">
+                        Link de Compra</a></td>
+        </tr>
+
+        <tr>
+            <td>La Divina Comedia</td>
+            <td>Dante Alighieri</td>
+            <td>1321</td>
+            <td><a href="https://www.buscalibre.com.co/libro-la-divina-comedia-completo/978958723
+                        0918/p/54432651?bmkt_source=google&bmkt_campaign=878570393&gclid=CjwKCAiA
+                        u5agBhBzEiwAdiR5tJXhx-2gzzq9LNFZYtjGUwKCutc7NBsjaARcFqUAvM4ZH4b5Zy9PGhoCD
+                        w8QAvD_BwE">Link de Compra</a></td>
+        </tr>
+        </table>
+    </body>
+</html>
